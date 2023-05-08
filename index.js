@@ -14,7 +14,7 @@ const fullName = "Humoud AlGhanim";
 const yearOfBirth = 1998;
 let hobby = "Boxing";
 let funFact = "I was a boxer in Kuwait's national boxing team and I was ranked 5th in Aisa when I was 14";
-const image = "https://drive.google.com/file/d/1ypUy4WQ7vL3n8EQj5ic993gGOTgd064u/view?usp=share_link";
+const image = "https://www.linkpicture.com/q/PHOTO-2023-02-11-12-36-08.jpg";
 let age = 2023 - yearOfBirth;
 
 
