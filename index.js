@@ -15,7 +15,7 @@ const yearOfBirth = 1998;
 let hobby = "Boxing";
 let funFact = "I was a boxer in Kuwait's national boxing team and I was ranked 5th in Aisa when I was 14";
 const image = "https://www.linkpicture.com/q/PHOTO-2023-02-11-12-36-08.jpg";
-let age = 2023 - yearOfBirth;
+
 
 
 
@@ -35,7 +35,7 @@ let age = 2023 - yearOfBirth;
  */
 
 const fullNameString = `My name is ${fullName}`;
-const yearOfBirthString = `I am ${age}`;
+const yearOfBirthString = `I am ${2023 - yearOfBirth}`;
 const hobbyString = `My hobby is ${hobby}`;
 
 
